@@ -1,6 +1,6 @@
 # Examen 1 - Seguridad de la Información y Gestión de Sistemas de Información
 
-Nombre:
+Nombre: Ana Michel León León 
 
 **Instrucciones**: Selecciona la respuesta correcta para cada una de las siguientes preguntas.
 
